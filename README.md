@@ -7,6 +7,7 @@
 * Nehemiah
 * Yosef Hamba
 * Oscar
+* 
 [Introduction Slides](https://docs.google.com/presentation/d/1fmbqqOnMQ3WQKu0dP-zJyqv4fpq__JhRto6WCP71jR4/edit#slide=id.p1)
 ## Roadmap
 ## Flowchart
