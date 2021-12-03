@@ -13,5 +13,3 @@
 * Dr. Caleb Kibet
 ## Roadmap
 [Here](https://github.com/Nelly-Wambui/16S-rRNA_Miniproject/issues/1) is our roadmap for this project
-## Flowchart
-<img src="https://github.com/Nelly-Wambui/16S-rRNA_Miniproject/blob/main/Flowchart.jpg" />
